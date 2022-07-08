@@ -9,3 +9,9 @@ var dog3Age = 3
 var dog1Good = false
 var dog2Good = true
 var dog3Good = true
+
+dog1 = "FREYA"
+dog2 = "BJORN"
+dog3 = "MARY"
+
+console.log(dog1,dog2,dog3)
